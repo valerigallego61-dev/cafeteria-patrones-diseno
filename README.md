@@ -1,7 +1,7 @@
 # Aplicación: Sistema Inteligente de Pedidos de Cafetería
 
 ## Descripción del Problema
-En una cafetería tradicional, calcular precios personalizados con múltiples ingredientes opcionales y notificar el estado del pedido a los clientes mediante `if-else` masivos genera código rígido, difícil de mantener y propenso a errores al añadir nuevas bebidas o estados.
+En una cafetería tradicional, calcular precios personalizados con múltiples ingredientes opcionales y notificar el estado del pedido a los clientes mediante `if-else` masivos genera código rígido, difícil de mantener y propenso a errores al añadir nuevas bebidas o estados .
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
