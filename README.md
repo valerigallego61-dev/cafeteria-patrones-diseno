@@ -42,5 +42,7 @@ g++ -std=c++17 cafeteria.cpp -o cafeteria
 
 ## integrantes de grupo:
 #-JHOHAN ANDRES VASQUEZ MUÑOZ
+
 #-JUAN FELIPE HERNANDEZ PINZON
+
 #-VALERI CASTILLO GALLEGO
